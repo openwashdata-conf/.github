@@ -39,3 +39,5 @@ Join us for the openwashdata Conference 2025!
 ## 🤝 Code of Conduct
 
 We are committed to providing a welcoming and inclusive environment for all participants. Please be respectful, collaborative, and constructive in all interactions.
+
+Please read our [Code of Conduct](https://openwashdata-conf.github.io/2025/code_of_conduct.html) for detailed guidelines on expected behavior and reporting procedures.
